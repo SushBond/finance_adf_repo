@@ -1,0 +1,15 @@
+{
+	"name": "adf-finance-proj",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "89cbfe12-2275-4fa6-9b0a-28ba9bb4b3ed",
+		"tenantId": "207b64d3-2a77-46d1-9226-7154d769ed2f"
+	}
+}
